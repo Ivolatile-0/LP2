@@ -1,0 +1,10 @@
+C:\Users\Denilce\Desktop\PTesteComponentes_M1\PTesteComponentes_M1\bin\Debug\PTesteComponentes_M1.exe.config
+C:\Users\Denilce\Desktop\PTesteComponentes_M1\PTesteComponentes_M1\bin\Debug\PTesteComponentes_M1.exe
+C:\Users\Denilce\Desktop\PTesteComponentes_M1\PTesteComponentes_M1\bin\Debug\PTesteComponentes_M1.pdb
+C:\Users\Denilce\Desktop\PTesteComponentes_M1\PTesteComponentes_M1\obj\Debug\PTesteComponentes_M1.csproj.AssemblyReference.cache
+C:\Users\Denilce\Desktop\PTesteComponentes_M1\PTesteComponentes_M1\obj\Debug\PTesteComponentes_M1.Form1.resources
+C:\Users\Denilce\Desktop\PTesteComponentes_M1\PTesteComponentes_M1\obj\Debug\PTesteComponentes_M1.Properties.Resources.resources
+C:\Users\Denilce\Desktop\PTesteComponentes_M1\PTesteComponentes_M1\obj\Debug\PTesteComponentes_M1.csproj.GenerateResource.cache
+C:\Users\Denilce\Desktop\PTesteComponentes_M1\PTesteComponentes_M1\obj\Debug\PTesteComponentes_M1.csproj.CoreCompileInputs.cache
+C:\Users\Denilce\Desktop\PTesteComponentes_M1\PTesteComponentes_M1\obj\Debug\PTesteComponentes_M1.exe
+C:\Users\Denilce\Desktop\PTesteComponentes_M1\PTesteComponentes_M1\obj\Debug\PTesteComponentes_M1.pdb

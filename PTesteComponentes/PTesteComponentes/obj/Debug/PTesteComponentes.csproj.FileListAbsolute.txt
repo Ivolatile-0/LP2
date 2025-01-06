@@ -1,0 +1,9 @@
+c:\users\0030482211015\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.exe.config
+c:\users\0030482211015\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.exe
+c:\users\0030482211015\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\bin\Debug\PTesteComponentes.pdb
+c:\users\0030482211015\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csprojResolveAssemblyReference.cache
+c:\users\0030482211015\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.Form1.resources
+c:\users\0030482211015\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.Properties.Resources.resources
+c:\users\0030482211015\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.csproj.GenerateResource.Cache
+c:\users\0030482211015\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.exe
+c:\users\0030482211015\documents\visual studio 2013\Projects\PTesteComponentes\PTesteComponentes\obj\Debug\PTesteComponentes.pdb
